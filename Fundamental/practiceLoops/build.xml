@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="practiceString" default="default" basedir=".">
-    <description>Builds, tests, and runs the project practiceString.</description>
+<project name="practiceLoops" default="default" basedir=".">
+    <description>Builds, tests, and runs the project practiceLoops.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
@@ -58,7 +58,7 @@
 
     An example of overriding the target for project execution could look like this:
 
-        <target name="run" depends="practiceString-impl.jar">
+        <target name="run" depends="practiceLoops-impl.jar">
             <exec dir="bin" executable="launcher.exe">
                 <arg file="${dist.jar}"/>
             </exec>
