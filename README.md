@@ -76,7 +76,7 @@ DSA and problem solving are my strongest areas, and I enjoy tackling complex log
 www.linkedin.com/in/abdul-qadir-4aa642204
 
 ### GitHub
-https://github.com/qadir21
+https://github.com/qadir4mulaMind
 
 ---
 
