@@ -1,0 +1,97 @@
+|  Welcome to JShell -- Version 21.0.6
+|  For an introduction type: /help intro
+
+// Typecasting and Conversion
+jshell> float a = 5;
+a ==> 5.0
+
+jshell> System.out.println(a);
+5.0
+
+jshell> int x = (int)4.5;
+x ==> 4
+
+jshell> System.out.println(x);
+4
+
+// Assignment Operator
+jshell> int newInt = 9;
+newInt ==> 9
+
+jshell> System.out.println(newInt);
+9
+
+jshell> int myInt = newInt;
+myInt ==> 9
+
+jshell> System.out.printlin(myInt);
+|  Error:
+|  cannot find symbol
+|    symbol:   method printlin(int)
+|  System.out.printlin(myInt);
+|  ^-----------------^
+
+jshell> System.out.println(myInt);
+9
+
+
+// Arithmetic operation
+jshell> int a = 8;
+a ==> 8
+
+jshell> int b = 5;
+b ==> 5
+
+jshell> a + b
+$3 ==> 13
+
+jshell> a * b;
+$4 ==> 40
+
+jshell> a - b;
+$5 ==> 3
+
+jshell> a / b;
+$6 ==> 1
+
+jshell> a % b;
+$7 ==> 3
+
+
+jshell> double x = 2;
+x ==> 2.0
+
+jshell> x = 5;
+x ==> 5.0
+
+jshell> double y = 2;
+y ==> 2.0
+
+jshell> x + y;
+$11 ==> 7.0
+
+jshell> x - y;
+$12 ==> 3.0
+
+jshell>  x * y;
+$13 ==> 10.0
+
+jshell> x * y;
+$14 ==> 10.0
+
+jshell> x / y;
+$15 ==> 2.5
+
+jshell> x % y;
+$16 ==> 1.0
+ 
+
+//Associativity and Priority
+jshell> 8 - 3 * 3
+$17 ==> -1
+
+jshell> 9 / 3/ 3;
+$18 ==> 1
+
+jshell> 9 / (3 / 3 + 2);
+$20 ==> 3

@@ -1,0 +1,11 @@
+import java.lang.*;
+class Variables1 
+{
+	public static void main(String Args[])
+	{
+		byte b = 135;
+		System.out.println(b);
+		
+        }
+	
+}

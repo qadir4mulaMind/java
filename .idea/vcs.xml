@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fundamental/IJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fundamental/IJava/IJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fundamental/IJava/IJava/IJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/Challange1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/ClassObject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/ControlStatementMathAndString" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/Function" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/ImportantProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/Input" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/JAVAVariable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/LeftHalfPyramid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/Loops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/MathsRandom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/OPERATOR-IF-ELSE-NUMBER SYSTEM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/Packages." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/Recursion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KGCODING/RightHalfPyramid" vcs="Git" />
+  </component>
+</project>

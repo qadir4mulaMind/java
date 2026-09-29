@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challange1/Challange1.iml" filepath="$PROJECT_DIR$/Challange1/Challange1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassObject/ClassObject.iml" filepath="$PROJECT_DIR$/ClassObject/ClassObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlStatementMathAndString/ControlStatementMathAndString.iml" filepath="$PROJECT_DIR$/ControlStatementMathAndString/ControlStatementMathAndString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImportantProject/ImportantProject.iml" filepath="$PROJECT_DIR$/ImportantProject/ImportantProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input/Input.iml" filepath="$PROJECT_DIR$/Input/Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVAVariable/JAVAVariable.iml" filepath="$PROJECT_DIR$/JAVAVariable/JAVAVariable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/KGCODING.iml" filepath="$PROJECT_DIR$/.idea/KGCODING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeftHalfPyramid/LeftHalfPyramid.iml" filepath="$PROJECT_DIR$/LeftHalfPyramid/LeftHalfPyramid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathsRandom/MathsRandom.iml" filepath="$PROJECT_DIR$/MathsRandom/MathsRandom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPERATOR-IF-ELSE-NUMBER SYSTEM/OPERATOR-IF-ELSE-NUMBER SYSTEM.iml" filepath="$PROJECT_DIR$/OPERATOR-IF-ELSE-NUMBER SYSTEM/OPERATOR-IF-ELSE-NUMBER SYSTEM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Packages./Packages..iml" filepath="$PROJECT_DIR$/Packages./Packages..iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RightHalfPyramid/RightHalfPyramid.iml" filepath="$PROJECT_DIR$/RightHalfPyramid/RightHalfPyramid.iml" />
+    </modules>
+  </component>
+</project>
