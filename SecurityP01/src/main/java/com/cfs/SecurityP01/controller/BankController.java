@@ -12,11 +12,18 @@ public class BankController {
 
     @GetMapping("/balance")
     public String getBalance(){
-        return "10000";
+
+        return String.valueOf(this.balance);
     }
 
     @PostMapping("/add")
-    public int updateBalance(@RequestParam String accountNumber, @RequestParam int amount){
-        return balance + amount;
+    public String updateBalance(@RequestParam String accountNumber, @RequestParam int amount){
+        this.balance = this.balance + amount;
+        return "Updated Balance: " + this.balance;
+    }
+
+    @GetMapping("/contact")
+    public String contactUs(){
+        return "You can contact us: 7455064261";
     }
 }
